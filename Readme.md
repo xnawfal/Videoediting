@@ -22,7 +22,7 @@ El Bitrate es la tasa de bits o datos que son procesados por unidad de tiempo.
 **Comparación de tamaño por minuto**
 
 Bitrate(kbits por segundo)   Formato Megabytes por Minuto
--------------------------:    ----------------------------:   
+-------------------------:    ----------------------------:
 320 MP3	                     3.0 MB
 192 MP3                	     1.8 MB
 160 MP3   	             1.5 MB
