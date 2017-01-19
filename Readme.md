@@ -15,15 +15,18 @@ Audio Interchange File Format (AIFF) es un estándar de formato de audio usado pa
 
 El Bitrate es la tasa de bits o datos que son procesados por unidad de tiempo.
 
-*La tasa promedio de bits (bitrate) para un archivo MP3 file es de 128 kbits por segundo o kbps. Un archivo creado con este bitrate deberá tener buena calidad y ocupa aproximadamente 1 Megabytes de datos por minuto de audio.
--Los diferentes bitrates varían la calidad del sonido. Cuanto más alto sea el bitrate, más veces va a ser mostrado el sonido original, de esta manera obteniendo una reproducción más auténtica y un sonido mucho mejor.
+* La tasa promedio de bits (bitrate) para un archivo MP3 file es de 128 kbits por segundo o kbps. Un archivo creado con este bitrate deberá tener buena calidad y ocupa aproximadamente 1 Megabytes de datos por minuto de audio.
+
+* Los diferentes bitrates varían la calidad del sonido. Cuanto más alto sea el bitrate, más veces va a ser mostrado el sonido original, de esta manera obteniendo una reproducción más auténtica y un sonido mucho mejor.
 
 **Comparación de tamaño por minuto**
-Bitrate (kbits por segundo)	Formato	Megabytes por Minuto
-320	MP3	3.0 MB
-192	MP3	1.8 MB
-160	MP3	1.5 MB
-128	MP3	1.0 MB
+
+Bitrate(kbits por segundo)   Formato Megabytes por Minuto
+-------------------------:    ----------------------------:   
+320 MP3	                     3.0 MB
+192 MP3                	     1.8 MB
+160 MP3   	             1.5 MB
+128 MP3          	     1.0 MB
 
 ### ¿Qué es un codec?
 
